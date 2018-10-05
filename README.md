@@ -3,8 +3,10 @@
 Aug. 2018 - Sept. 2018 
 Independent Project
 
-•	Utilized HTML, CSS, jQuery, AJAX, and JavaScript to make a dynamic and interactive web page
-•	Developed the web service with Java Servlet and RESTful API to fetch restaurant data from Yelp API 
-•	Used MySQL to store and manage the users and restaurants data
-•	Implemented a recommendation algorithm based on rating, users’ location and favorite items
++ Utilized HTML, CSS, jQuery, AJAX, and JavaScript to make a dynamic and user-friendly web page
++ Developed RESTful web service with Java Servlet to fetch nearby restaurant data from Yelp API
++ Used MySQL to store and manage the data for users and restaurants
++ Implemented the recommendation system based on ratings, location and user preferences
+
+## Software Architecture
 
